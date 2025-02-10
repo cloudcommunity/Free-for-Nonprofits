@@ -2,6 +2,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/cloudcommunity/Free-for-Nonprofits?style=social)](https://github.com/cloudcommunity/Free-for-Nonprofits/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/cloudcommunity/Free-for-Nonprofits/pulls)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A **curated collection of free resources** for **nonprofit organizations, charities, and NGOs**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help nonprofits access **free software, cloud services, tools, and educational resources** to support their missions.
 
