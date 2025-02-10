@@ -6,6 +6,8 @@
 
 A **curated collection of free resources** for **nonprofit organizations, charities, and NGOs**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help nonprofits access **free software, cloud services, tools, and educational resources** to support their missions.
 
+🌐 The list of free goodies for nonprofits is also available as a website at [FreeForNonprofits.org](https://freefornonprofits.org/), making it easier to explore and navigate online.
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more non-profits discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
