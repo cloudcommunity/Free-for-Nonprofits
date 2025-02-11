@@ -43,6 +43,7 @@ The collection includes:
 - [Hotjar for Nonprofits](https://www.hotjar.com/nonprofit/)
 - [GitBook](https://www.gitbook.com/)
 - [Sanity Non-Profit Plan](https://www.sanity.io/docs/non-profit-plan)
+- [Engage CRM](https://www.connectcause.com/engage/)
 
 ## 💰 Discounted Offers for Nonprofits
 
