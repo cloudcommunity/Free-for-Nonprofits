@@ -29,6 +29,7 @@ The collection includes:
 
 ### Design & Marketing
 - [Canva for Nonprofits](https://www.canva.com/canva-for-nonprofits/)
+- [Balsamiq for Nonprofits](https://balsamiq.com/givingback/nonprofits/)
 
 ### Cloud & Productivity
 - [Google for Nonprofits](https://www.google.com/nonprofits/)
@@ -41,7 +42,7 @@ The collection includes:
 - [AWS for Nonprofits](https://aws.amazon.com/government-education/nonprofits/)
 - [Facebook Social Impact](https://socialimpact.facebook.com/), [Facebook for Nonprofits](https://www.facebook.com/nonprofits/)
 - [Hotjar for Nonprofits](https://www.hotjar.com/nonprofit/)
-- [GitBook](https://www.gitbook.com/)
+- [GitBook](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan)
 - [Sanity Non-Profit Plan](https://www.sanity.io/docs/non-profit-plan)
 - [Engage CRM](https://www.connectcause.com/engage/)
 
