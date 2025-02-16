@@ -8,6 +8,8 @@ A **curated collection of free resources** for **nonprofit organizations, charit
 
 🌐 The list of free goodies for nonprofits is also available as a website at [FreeForNonprofits.org](https://freefornonprofits.org/), making it easier to explore and navigate online.
 
+📰 Stay updated with the latest free resources for startups by subscribing to our **newsletter** at [freefornonprofits.substack.com](https://freefornonprofits.substack.com/).
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more non-profits discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
