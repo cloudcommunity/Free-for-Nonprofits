@@ -58,6 +58,7 @@ The collection includes:
 - [Mailchimp](https://mailchimp.com/pricing/marketing/) - 15% discount to nonprofits and charities.
 - [Migadu](https://www.migadu.com/)
 - [Semrush for Nonprofits](https://www.semrush.com/kb/922-semrush-non-profit-tax)
+- [Stripe Nonprofit Discount](https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations) - Discounted processing fees for nonprofits primarily accepting donations.
 
 ## 🔍 Other Resources
 
