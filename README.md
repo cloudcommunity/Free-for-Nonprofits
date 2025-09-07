@@ -51,6 +51,7 @@ The collection includes:
 
 ## 💰 Discounted Offers for Nonprofits
 
+- [Constant Contact Nonprofit Discount](https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/5374-non-profit-discount-and-sales-tax-exemption-information?lang=en_US) – 20–30% off when prepaying for 6 or 12 months with valid nonprofit documentation.
 - [Slack for Nonprofits](https://slack.com/intl/en-de/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 - [LinkedIn for Nonprofits](https://nonprofit.linkedin.com/) (Sales Navigator Core, Recruiter Lite)
 - [Microsoft for Nonprofits](https://www.microsoft.com/en-us/nonprofits)
